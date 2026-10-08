@@ -1,6 +1,6 @@
 # Cauã de Freitas Barreto
 
-🚀 **Junior Data Scientist | AI Engineer**  
+- **Junior Data Scientist | AI Engineer**  
 🇧🇷 Rio de Janeiro, Brazil
 
 I am a **Computer Engineering student at the Military Institute of Engineering (IME)**. I am deeply passionate about solving complex problems through data. I build **high-performance Machine Learning models**, **efficient RAG (Retrieval-Augmented Generation) systems**, and **strategic data pipelines**. 
