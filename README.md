@@ -64,10 +64,6 @@ My focus is on analytical engineering, algorithm optimization, and bridging the 
 
 ---
 
-## 🚀 Philosophy
-
-> *"Done is better than perfect.*  
-> *The challenging, the impossible, and the impractical are the true engines of growth. My goal is to transform mathematical rigor and engineering into scalable solutions that generate real-world value."*
 
 ---
 🤝 Always open to collaborating on AI projects, Data Science competitions, and cool new ideas!
