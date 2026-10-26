@@ -28,7 +28,7 @@ My focus is on analytical engineering, algorithm optimization, and bridging the 
 - 📈 **Machine Learning:** Predictive modeling using Gradient Boosting (CatBoost, XGBoost, LightGBM) and hyperparameter tuning (Optuna).
 - 📊 **Data Analysis:** Deep Exploratory Data Analysis (EDA), statistical testing, and building interactive dashboards.
 - ⚙️ **Backend & Development:** Creating asynchronous APIs to serve AI models and processing document data (PyMuPDF, Regex).
-- 🎓 **Academic Initiatives:** Quantitative Finance (IME Finance) & Autonomous Systems (RoboIME).
+- 🎓 **Academic Initiatives:** Quantitative Finance (IME Finance) & Drone Team (RoboIME).
 
 ---
 
